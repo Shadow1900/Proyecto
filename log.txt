@@ -1,0 +1,2 @@
+[18-06-2024 13:30:05] Server is running on port 3000
+[18-06-2024 13:30:05] Coordenadas cargadas desde el archivo: []
